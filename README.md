@@ -42,3 +42,6 @@ its dependency definitions.
 We sincerely thank the authors of [SAM3](https://github.com/facebookresearch/sam3) for releasing
 the official codebase, which provides the foundation for our Stage 2 grounding and propagation
 pipeline.
+We also thank the authors of [MeViS](https://github.com/henghuiding/MeViS) for their valuable
+contribution to the referring video segmentation community and for making the related resources
+publicly available.
