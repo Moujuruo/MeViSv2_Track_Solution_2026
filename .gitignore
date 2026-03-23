@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+checkpoints/
+dataset/
+outputs/
+logs/
+agent_output/
+agent_output_refine1/
+agent_output_fallback/
+mask_output/
+bbox_output/
+submission.zip
+submission_text_final/
+sample_submission_text/
