@@ -1,5 +1,9 @@
 # The 1st Winner for 5th PVUW MeViS-Text Challenge: Strong MLLMs Meet SAM3 for Referring Video Object Segmentation
 
+Xusheng He<sup>1</sup>, Canyang Wu<sup>1</sup>, Jinrong Zhang<sup>1</sup>, Weili Guan<sup>1,2</sup>, Jianlong Wu<sup>1,2</sup>, Liqiang Nie<sup>1,2</sup>  
+<sup>1</sup>Harbin Institute of Technology, Shenzhen, China  
+<sup>2</sup>Shenzhen Loop Area Institute, China
+
 This repository is a code release of our solution to the 5th PVUW MeViSv2-Text challenge.
 
 ## Overview
